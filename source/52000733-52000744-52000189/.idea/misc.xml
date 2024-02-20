@@ -1,0 +1,78 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable-anydpi-v24/ic_allsubject.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable-anydpi-v24/ic_back.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable-anydpi-v24/ic_grammar.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable-hdpi/ic_timer.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable-v21/ic_menu_gallery.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/back.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/background_bottom.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/background_menu.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/background_orang.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/bgapp.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/button_1.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/button_2.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/button_3.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/button_4.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/container_bg.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_baseline_lock_clock_24.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_dollar.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_lock.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_person.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_question.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_share.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_trophy.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/ic_visibility.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/rounded_box.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/drawable/yellowbackground.xml" value="0.1" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_arrange_sentences.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_dien_khuyet.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_ds_tuvung.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_fill_blanks.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_finish_hoctap.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_forgot_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_hoctuvung.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_login.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_luyen_nghe.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_quiz.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_quiz_listening.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_ranking.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_sapxepcau.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_signup.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_splash_login.xml" value="0.1" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_thong_tin_taikhoan.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_trac_nghiem.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/activity_word_matters.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/content_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/fragment_logout.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/row_bobainghe.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/row_botracnghiem.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/row_botuvung.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/row_dienkhuyet.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/row_dstuvung.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/row_itemrank.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/row_sapxepcau.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/row_xephang.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/layout/style.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/menu/activity_main_drawer.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1605" />
+        <entry key="..\:/Users/GIA VU/Desktop/52000733-52000744-52000189/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1605" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
